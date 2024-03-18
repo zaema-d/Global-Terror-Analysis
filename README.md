@@ -39,7 +39,7 @@ The findings will be presented as visualizations and storyboards, highlighting t
 
 ## Author
 
-[Your Name]
+Zaema Khurram
 
 ## Acknowledgments
 
